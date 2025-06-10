@@ -34,4 +34,4 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas:
    ```
 ---
 
-Para mais informações sobre Flutter, visite a [documentação oficial](https://flutter.dev/docs).
+🚀 Para mais informações sobre Flutter, visite a [documentação oficial](https://flutter.dev/docs).
